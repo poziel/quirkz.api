@@ -2,6 +2,9 @@
 
 # QuirkZ: API
 
+![status](https://img.shields.io/badge/status-W.I.P.-blue)
+![license](https://img.shields.io/github/license/POZIEL/quirkz.api)
+
 A collection of usefull tool mainly used for the other **QuirkZ** mods for [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/). 
 
 You may use this library to help you with your mod conception as it include lots of tools to simplify modding in Project Zomboid.
