@@ -1,0 +1,12 @@
+name=QuirkZ: API
+id=QUIRKZ:API
+authors=Pøziel
+
+description=A mod API required for all the other mods in the QuirkZ series to work
+description=
+description=This mod API on it's own does nothing
+
+pzversion=41
+tags=Framework;Misc
+
+poster=poster.png
